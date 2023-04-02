@@ -1,0 +1,94 @@
+Albania
+East-Macedonia-Kosovo-Montenegro-Greece
+Andorra
+West-Spain-France
+Austria
+West-Slovakia-Czech Republic-Germany-Hungary-Slovenia-Italy-Liechtenstein-Switzerland
+Belarus
+East-Lithuania-Latvia-Russia-Ukraine-Poland
+Belgium
+West-Netherlands-Germany-Luxembourg-France-United Kingdom
+Bosnia and Herzegovina
+East-Croatia-Serbia-Montenegro
+Bulgaria
+East-Romania-Greece-Macedonia-Kosovo-Serbia
+Croatia
+East-Slovenia-Hungary-Serbia-Bosnia and Herzegovina
+Cyprus
+East-Greece-Turkey
+Czech Republic
+East-Germany-Poland-Slovakia-Austria
+Denmark
+West-Sweden-Germany
+Estonia
+East-Finland-Russia-Latvia
+Finland
+West-Norway-Russia-Estonia-Sweden
+France
+West-Belgium-United Kingdom-Germany-Luxembourg-Switzerland-Italy-Monaco-Andorra-Spain
+Germany
+West-Denmark-Switzerland-Poland-Netherlands-Czech Republic-Austria-Liechtenstein-France-Luxembourg-Belgium
+Greece
+East-Albania-Macedonia-Bulgaria-Turkey
+Hungary
+East-Slovakia-Ukraine-Romania-Serbia-Croatia-Slovenia-Austria
+Iceland
+West-Ireland-United Kingdom
+Ireland
+West-Iceland-United Kingdom
+Italy
+West-Switzerland-Liechtenstein-Austria-Slovenia-San Marino-Vatican City-Malta-Monaco-France
+Kosovo
+East-Montenegro-Serbia-Bulgaria-Macedonia-Albania
+Latvia
+East-Estonia-Russia-Belarus-Lithuania
+Liechtenstein
+West-Austria-Switzerland
+Lithuania
+East-Belarus-Latvia-Poland-Russia
+Luxembourg
+West-Belgium-Germany-France
+Malta
+West-Italy-Vatican City
+Moldova
+East-Ukraine-Romania
+Monaco
+West-France-Italy
+Montenegro
+East-Bosnia and Herzegovina-Serbia-Kosovo-Albania-Croatia
+Netherlands
+West-Germany-Belgium-United Kingdom
+Macedonia
+East-Kosovo-Bulgaria-Greece-Albania
+Norway
+West-Sweden-Finland
+Poland
+East-Germany-Lithuania-Belarus-Ukraine-Slovakia-Czech Republic
+Portugal 
+West-Spain
+Romania
+East-Hungary-Ukraine-Moldova-Bulgaria-Serbia
+Russia
+East-Finland-Estonia-Latvia-Lithuania-Belarus-Ukraine-Poland
+San Marino
+West-Italy-Vatican City
+Serbia
+East-Croatia-Hungary-Romania-Bulgaria-Macedonia-Kosovo-Montenegro-Bosnia and Herzegovina
+Slovakia
+East-Czech Republic-Poland-Ukraine-Hungary-Austria
+Slovenia
+East-Austria-Hungary-Croatia-Italy
+Spain
+West-Portugal-Andorra
+Sweden
+West-Denmark-Norway-Finland
+Switzerland
+West-France-Germany-Liechtenstein-Austria-Italy
+Turkey
+East-Cyprus-Greece-Bulgaria
+Ukraine
+East-Poland-Belarus-Russia-Moldova-Romania-Hungary-Slovakia
+United Kingdom
+West-Ireland-Iceland-Netherlands-Belgium-France
+Vatican City
+West-Italy-San Marino-Malta

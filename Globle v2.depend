@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1654105846 source:c:\users\moisr\documents\globle v2\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
+1654102542 source:d:\globle\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+
